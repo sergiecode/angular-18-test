@@ -28,3 +28,11 @@
 https://getbootstrap.com/docs/5.3/components/navbar/#how-it-works
 
 ---
+ - favicon: https://icons8.com/icons/set/favicon
+ - modificar en carpeta public
+   
+---
+ - modificar html título y rutas
+   
+---
+ - imagenes van en carpeta public/assets
